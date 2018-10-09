@@ -1,0 +1,7 @@
+Open xilinx ise
+click on new project
+click on add new source
+click on new ip core
+select fifo core
+
+follow the images given in the images folder
